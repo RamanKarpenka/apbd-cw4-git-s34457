@@ -26,3 +26,4 @@ C:\Users\User\OneDrive\Desktop\APBD\4\LinqConsoleLab.PL\obj\Debug\net9.0\refint\
 C:\Users\User\OneDrive\Desktop\APBD\4\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.pdb
 C:\Users\User\OneDrive\Desktop\APBD\4\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\APBD\4\LinqConsoleLab.PL\obj\Debug\net9.0\ref\LinqConsoleLab.PL.dll
+C:\Users\User\OneDrive\Desktop\APBD\4\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.sourcelink.json
